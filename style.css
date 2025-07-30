@@ -3,6 +3,7 @@
     margin: 0;
     box-sizing: border-box;
 }
+
 .wrapper-container{
     display: flex;
     justify-content: space-between;
